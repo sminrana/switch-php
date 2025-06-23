@@ -88,11 +88,11 @@ brew install shivammathur/php/php@8.4
 
 ### 2. Keep httpd conf file for each version of PHP, like this
 
-![Example of httpd conf files for each PHP version](https://smindev.s3.amazonaws.com/static/Screenshot2025-06-23at11.46.59%E2%80%AFAM.png)
+![Example of httpd conf files for each PHP version](https://raw.githubusercontent.com/sminrana/switch-php/3819d0109deecca2dbba47bea541cc926e8f5e69/Screenshot%202025-06-23%20at%2011.46.59%E2%80%AFAM.png)
 
 ### Example of my httpd-7.2.conf
 
-![Example of httpd conf file for php 7.2](https://smindev.s3.amazonaws.com/static/Screenshot2025-06-23at11.49.53%E2%80%AFAM.png)
+![Example of httpd conf file for php 7.2](https://raw.githubusercontent.com/sminrana/switch-php/refs/heads/main/Screenshot%202025-06-23%20at%2011.49.53%E2%80%AFAM.png)
 
 **Important: Just make sure you have httpd.conf file for each PHP version which includes correct PHP path.**
 
